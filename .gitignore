@@ -151,3 +151,5 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+/daretsuyo/local_setting.py
+/daretsuyo/get_random_secret_key.py
